@@ -1,0 +1,2 @@
+# OracleMasterBronzeDBA
+おらくるますたーぶろんずDBAのお勉強
